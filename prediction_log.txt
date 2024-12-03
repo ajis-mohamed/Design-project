@@ -1,0 +1,30 @@
+2024-12-02 10:41:13,451 - INFO: Model loaded successfully
+2024-12-02 10:41:13,481 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.9.165:5000
+2024-12-02 10:41:13,481 - INFO: [33mPress CTRL+C to quit[0m
+2024-12-02 10:41:13,500 - INFO:  * Restarting with watchdog (windowsapi)
+2024-12-02 10:41:19,259 - INFO: Model loaded successfully
+2024-12-02 10:41:19,277 - WARNING:  * Debugger is active!
+2024-12-02 10:41:19,282 - INFO:  * Debugger PIN: 313-684-670
+2024-12-02 10:41:20,533 - INFO:  * Detected change in 'c:\\Users\\mutha\\Desktop\\Heart\\app.py', reloading
+2024-12-02 10:41:20,542 - INFO:  * Detected change in 'c:\\Users\\mutha\\Desktop\\Heart\\app.py', reloading
+2024-12-02 10:41:20,543 - INFO:  * Detected change in 'c:\\Users\\mutha\\Desktop\\Heart\\app.py', reloading
+2024-12-02 10:41:22,482 - INFO:  * Restarting with watchdog (windowsapi)
+2024-12-02 10:41:33,090 - INFO: Model loaded successfully
+2024-12-02 10:41:33,113 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.9.165:5000
+2024-12-02 10:41:33,113 - INFO: [33mPress CTRL+C to quit[0m
+2024-12-02 10:41:33,130 - INFO:  * Restarting with watchdog (windowsapi)
+2024-12-02 10:41:38,606 - INFO: Model loaded successfully
+2024-12-02 10:41:38,625 - WARNING:  * Debugger is active!
+2024-12-02 10:41:38,629 - INFO:  * Debugger PIN: 313-684-670
+2024-12-02 10:41:38,659 - INFO: 127.0.0.1 - - [02/Dec/2024 10:41:38] "GET / HTTP/1.1" 200 -
+2024-12-02 10:42:36,391 - INFO:  * Detected change in 'c:\\Users\\mutha\\Desktop\\Heart\\app.py', reloading
+2024-12-02 10:42:36,421 - INFO:  * Detected change in 'c:\\Users\\mutha\\Desktop\\Heart\\app.py', reloading
+2024-12-02 10:42:38,455 - INFO:  * Restarting with watchdog (windowsapi)
+2024-12-02 10:42:44,525 - INFO: Model loaded successfully
+2024-12-02 10:43:43,014 - INFO: Model loaded successfully
